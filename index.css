@@ -1,0 +1,27 @@
+body{
+    background-color:chartreuse;
+
+}
+img{
+    width: 100%;
+    height:auto;
+    border-radius: 0%;
+
+}
+#heading{
+    text-align: center;
+    font-weight: bold;
+    color:blue;
+    font-size: 45px;
+}
+.tex{
+    color:red;
+    text-align: center;
+    font-size: 36px;
+}
+h1{
+    font-size: 40px;
+}
+.text{
+    font-size:20px;
+}
